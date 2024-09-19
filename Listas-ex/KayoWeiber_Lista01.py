@@ -1,4 +1,4 @@
-"""
+
 #ex01
 idade=int(input("Digite sua idade:"))
 if idade>0:
@@ -269,7 +269,7 @@ if num == num[::-1]:
     print(f"{num} é um palíndromo.")
 else:
     print(f"{num} não é um palíndromo.")
-  """  
+ 
 #ex20
 while True:
     try:

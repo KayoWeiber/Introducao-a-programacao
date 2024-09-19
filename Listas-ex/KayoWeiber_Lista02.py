@@ -1,5 +1,5 @@
 #Lista de Exercícios
-'''
+
 #ex01
 func=0
 while True:
@@ -306,4 +306,4 @@ while True:
                 print("A quantidade de participante precisa ser um número inteiro.")
         except ValueError:
             print("A data inserida não é válida")
-  '''          
+       
