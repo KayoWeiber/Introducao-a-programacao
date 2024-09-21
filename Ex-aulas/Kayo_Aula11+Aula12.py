@@ -4,14 +4,14 @@
 
 # Aula 11 - Exercícios
 
-#Aula 11 - Exercício 1
-palavra=str(input("Digite uma plavra:"))
-print("Quantidade de Letra é:" len(palavra))
+# Aula 11 - Exercício 1
+palavra = str(input("Digite uma palavra: "))
+print("A quantidade de letras é:", len(palavra))
 
-#Aula 11 - Exercício 2
-string=str(input("Digite uma palavra:"))
-print("Primeira letra é:"string[0])
-print("Última letra é:"string[-1])
+# Aula 11 - Exercício 2
+string = str(input("Digite uma palavra: "))
+print("A primeira letra é:", string[0])
+print("A última letra é:", string[-1])
 
 #Aula 11 - Exercício 3
 string=str(input("Digite uma palavra:"))
